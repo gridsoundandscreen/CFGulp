@@ -1,0 +1,20 @@
+{
+  "name": "CFGulp",
+  "version": "0.0.0",
+  "description": "Gulp / Browserify Example for CommandFusion GUIs. ",
+  "keywords": ["Grid Sound and Screen", "CommandFusion", "Gulp", "Browserify", "CFGulp"],
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gridsoundandscreen/CFGulp.git"
+  },
+  "author": "Grid Sound and Screen",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/gridsoundandscreen/CFGulp/issues"
+  },
+  "devDependencies": {
+    "gulp": "~3.6.2",
+    "gulp-browserify": "~0.5.0"
+  }
+}
